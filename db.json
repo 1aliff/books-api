@@ -1,0 +1,24 @@
+{
+  "books": [
+    {
+      "title": "Game of Thrones: Fire & Ice",
+      "rating": "5",
+      "id": 1
+    },
+    {
+      "title": "Harry Potter : Chamber of Secrets",
+      "rating": "5.1",
+      "id": 3
+    },
+    {
+      "title": "Broken Dreams",
+      "rating": "5",
+      "id": 4
+    },
+    {
+      "title": "Invading Area 51: History for Millenials",
+      "rating": "5",
+      "id": 5
+    }
+  ]
+}
